@@ -1,4 +1,4 @@
-## Hello! I'm ![Rudransh](https://hit.yhype.halp.im/github/profile?user_id=55452780) <img src="https://komarev.com/ghpvc/?username=FireHead90544" alt="FireHead90544" />
+## Hello! I'm Rudransh <img src="https://komarev.com/ghpvc/?username=FireHead90544" alt="FireHead90544" />
 ### 😎 An Introduction:
 - **I'm a Boy**
 - **16 yrs Old.**
