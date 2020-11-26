@@ -12,7 +12,7 @@
   - 🍨[**i-Scream - A Private Discord Bot For Servers**](#) // Repository Will Be Made Public Soon
   - 😎[**Thug Life Filter - OpenCV & Python**](https://github.com/FireHead90544/thug-life-filter-using-python)
   - 😃[**Rudransh Joshi**](#) // My Portfolio Website, Made Using Flask {Currently Down!}
-  - 🤖[**Mr.Streamer Bot - A Private Discord Bot**] // Discontinued
+  - 🤖**Mr.Streamer Bot - A Private Discord Bot** // Discontinued
 
 ### 👨‍💻 I’m currently working on
 - #### Python Projects:
