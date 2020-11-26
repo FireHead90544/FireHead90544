@@ -45,7 +45,7 @@
 - **YouTube** - __[Mr.Streamer](https://www.youtube.com/mrstreamer) 🔴__
 - **Gaming 💻📱**
 - **Study 🎓**
-- **Singing 🎤**1
+- **Singing 🎤**
 - **Contributing To Open Source 🌸**
 
 ### 📫 Connect with me: 
