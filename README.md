@@ -35,7 +35,7 @@
 
 ### 📰 [My Blog](https://mrstreamer.live/)
 
-### 📈 Some Stats (Stonks):
+### 📈 Some Stats :):
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireHead90544&layout=compact&show_icons=true&theme=radical" alt="FireHead90544" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FireHead90544&show_icons=true&theme=radical" alt="FireHead90544" />
 
