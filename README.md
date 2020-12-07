@@ -11,7 +11,7 @@
   - 🌐[**Cyber Efficient**](https://cyberefficient.io) // Made Using Flask]
   - 🍨[**i-Scream - A Private Discord Bot For Servers**](#) // Repository Will Be Made Public Soon
   - 😎[**Thug Life Filter - OpenCV & Python**](https://github.com/FireHead90544/thug-life-filter-using-python)
-  - 😃[**Rudransh Joshi**](#) // My Portfolio Website, Made Using Flask {Currently Down!}
+  - 😃[**Rudransh Joshi**](https://www.rudranshjoshi.me/) // My Portfolio Website, Made Using Flask
   - 🤖**Mr.Streamer Bot - A Private Discord Bot** // Discontinued
   - 🎉[**HacktoberFest2020**](https://hacktoberfest.digitalocean.com)
 
