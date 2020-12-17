@@ -17,7 +17,7 @@
 
 ### 👨‍💻 I’m currently working on
 - #### Python Projects:
-  - ✂️[**shorty.ml - A Brand URL Shortener Made Using Flask & Postgres**](https://github.com/FireHead90544/shorty)
+  - ✂️[**shortyy.ml - A Brand URL Shortener Made Using Flask & Postgres**](https://www.shortyy.ml/)
   - 🚩[**NTB - An AI powered by ML to provide sentiment analysis**](https://github.com/FireHead90544/NT-B)
   - 🤖[**RUDRA - A Highly Trained Voice Asistant**](https://github.com/FireHead90544/RUDRA)
   - 💎**SCI-BOT - A Multi-Purpose Discord Bot** // Code Not Available, Try It [Here](https://invite.gg/cyberefficient)
