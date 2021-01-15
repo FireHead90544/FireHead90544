@@ -42,7 +42,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FireHead90544&show_icons=true&theme=radical" alt="FireHead90544" />
 
 ### ⚡ Other Things I Do:
-- **Blogging** __[Mr.Streamr](https://mrstreamer.live) 📰__
+- **Blogging** __[Mr.Streamer](https://mrstreamer.live) 📰__
 - **YouTube** - __[Mr.Streamer](https://www.youtube.com/mrstreamer) 🔴__
 - **Gaming 💻📱**
 - **Study 🎓**
