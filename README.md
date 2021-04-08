@@ -6,6 +6,8 @@
 - **I Love Music**
 - **I Love To Learn New Programming Languages And Working On New Projects.**
 
+#### 🏆 Recent Achievement: [**Certificate For TechAvishkar In e-Raksha Competition**](https://dchn.io/QMjZ2)
+
 ### 💻 Completed Projects:
 - #### Python:
   - 🌐[**Cyber Efficient**](https://cyberefficient.io) // Made Using Flask
