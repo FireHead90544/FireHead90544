@@ -10,6 +10,7 @@
 
 ### 💻 Completed Projects:
 - #### Python:
+  - 📣[**PyQTTs - Open Source Text To Speech GUI Application**](https://github.com/FireHead90544/PyQTTs)
   - 🌐[**Cyber Efficient**](https://cyberefficient.io) // Made Using Flask
   - 🍨[**i-Scream - A Private Discord Bot For Servers**](#) // Repository Will Be Made Public Soon
   - 😎[**Thug Life Filter - OpenCV & Python**](https://github.com/FireHead90544/thug-life-filter-using-python)
@@ -51,7 +52,7 @@
 - **Singing 🎤**
 - **Contributing To Open Source 🌸**
 
-### 📫 Connect with me: 
+### 📫 Connect with Me: 
 - Discord (DM) - **[</Rudransh Joshi>](https://dsc.bio/mrstreamer)**
 - Discord (Server) - **[Mr.Streamer](https://discord.gg/dN66r3D)**
 - Facebook (Personal) - **[Rudransh Joshi](https://www.facebook.com/rudranshjoshi1806)**
