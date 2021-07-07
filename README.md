@@ -1,7 +1,7 @@
 ## Hello! I'm Rudransh <img src="https://komarev.com/ghpvc/?username=FireHead90544" alt="FireHead90544" />
 ### 😎 An Introduction:
 - **I'm a Boy**
-- **16 yrs Old.**
+- **17 yrs Old.**
 - **I 💖 Python**
 - **I Love Music**
 - **I Love To Learn New Programming Languages And Working On New Projects.**
@@ -12,10 +12,10 @@
 - #### Python:
   - 📣[**PyQTTs - Open Source Text To Speech GUI Application**](https://github.com/FireHead90544/PyQTTs)
   - 🌐[**Cyber Efficient**](https://cyberefficient.io) // Made Using Flask
-  - 🍨[**i-Scream - A Private Discord Bot For Servers**](#) // Repository Will Be Made Public Soon
+  - 🍨[**i-Scream - A Single-Guilded Private Bot For Ayusnator**](#) // Repository Will Be Made Public Soon
   - 😎[**Thug Life Filter - OpenCV & Python**](https://github.com/FireHead90544/thug-life-filter-using-python)
   - 😃[**Rudransh Joshi**](https://www.rudranshjoshi.me/) // My Portfolio Website, Made Using Flask
-  - 🤖**Mr.Streamer Bot - A Private Discord Bot** // Discontinued
+  - 🤖[**Phoenix Bot - A Single-Guilded Private Bot For Project: Phoenix™**](https://discord.gg/phoenixop) // Discontinued
   - 🎉[**HacktoberFest2020**](https://hacktoberfest.digitalocean.com)
 
 ### 👨‍💻 I’m currently working on
