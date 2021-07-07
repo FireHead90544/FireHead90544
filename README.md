@@ -15,7 +15,7 @@
   - 🍨[**i-Scream - A Single-Guilded Private Bot For Ayusnator**](#) // Repository Will Be Made Public Soon
   - 😎[**Thug Life Filter - OpenCV & Python**](https://github.com/FireHead90544/thug-life-filter-using-python)
   - 😃[**Rudransh Joshi**](https://www.rudranshjoshi.me/) // My Portfolio Website, Made Using Flask
-  - 🤖[**Phoenix Bot - A Single-Guilded Private Bot For Project: Phoenix™**](https://discord.gg/phoenixop) // Discontinued
+  - 🤖[**Phoenix Bot - A Single-Guilded Private Bot For Project: Phoenix™**](https://discord.gg/phoenixop) // Try it out on my discord server
   - 🎉[**HacktoberFest2020**](https://hacktoberfest.digitalocean.com)
 
 ### 👨‍💻 I’m currently working on
