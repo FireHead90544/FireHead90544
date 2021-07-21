@@ -1,6 +1,6 @@
 ## Hello! I'm Rudransh <img src="https://komarev.com/ghpvc/?username=FireHead90544" alt="FireHead90544" />
 ### 😎 An Introduction:
-- **I'm a Boy**
+- **He / Him**
 - **17 yrs Old.**
 - **I 💖 Python**
 - **I Love Music**
