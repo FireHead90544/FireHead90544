@@ -1,4 +1,4 @@
-## Hello! I'm Rudransh <img src="https://komarev.com/ghpvc/?username=FireHead90544" alt="FireHead90544" />
+## Hello! I'm Rudransh <img src="https://komarev.com/ghpvc/?username=FireHead90544&style=flat-square&color=blueviolet" alt="FireHead90544" />
 ### 😎 An Introduction:
 - **He / Him**
 - **17 yrs Old.**
