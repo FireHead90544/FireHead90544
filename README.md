@@ -10,6 +10,7 @@
 
 ### 💻 Completed Projects:
 - #### Python:
+  - ⏹[**stack.py - LIFO Stack & FIFO Queue Implementation in Python**](https://github.com/FireHead90544/stack.py)
   - 📣[**PyQTTs - Open Source Text To Speech GUI Application**](https://github.com/FireHead90544/PyQTTs)
   - 🌐[**Cyber Efficient**](https://cyberefficient.io) // Made Using Flask
   - 🍨[**i-Scream - A Single-Guilded Private Bot For Ayusnator**](#) // Repository Will Be Made Public Soon
@@ -20,6 +21,7 @@
 
 ### 👨‍💻 I’m currently working on
 - #### Python Projects:
+  - 🔻[**gogoanime-dl - An Anime Downloader written in Python**](https://colab.research.google.com/drive/1x7Ksz1_6iC5jy9Pna4iQFf5LR9ISIIWX?usp=sharing)
   - ✂️[**shortyy.ml - A Brand URL Shortener Made Using Flask & Postgres**](https://www.shortyy.ml/)
   - 🚩[**NTB - An AI powered by ML to provide sentiment analysis**](https://github.com/FireHead90544/NT-B)
   - 🤖[**RUDRA - A Highly Trained Voice Asistant**](https://github.com/FireHead90544/RUDRA)
