@@ -44,9 +44,9 @@
 
 ### 📈 Some Stats :):
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhraagarwal&theme=radical" alt="FireHead90544" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireHead90544&layout=compact&show_icons=true&theme=radical" alt="FireHead90544" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FireHead90544&show_icons=true&theme=radical" alt="FireHead90544" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhraagarwal&theme=radical" alt="FireHead90544" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireHead90544&layout=compact&show_icons=true&theme=radical" alt="FireHead90544" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=FireHead90544&show_icons=true&theme=radical" alt="FireHead90544" />
 
 ### ⚡ Other Things I Do:
 - **Blogging** __[Mr.Streamer](https://mrstreamer.live) 📰__
