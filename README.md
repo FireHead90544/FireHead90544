@@ -1,4 +1,6 @@
-## Hello! I'm Rudransh <img src="https://komarev.com/ghpvc/?username=FireHead90544&style=flat-square&color=blueviolet" alt="FireHead90544" />
+## Hello! I'm Rudransh <img src="https://komarev.com/ghpvc/?username=FireHead90544&style=flat-square&color=007efc" alt="FireHead90544" />
+<a href="https://app.daily.dev/FireHead90544"><img src="https://github.com/FireHead90544/FireHead90544/blob/main/devcard.svg" width="400" alt="Rudransh Joshi's Dev Card" align="right"/></a>
+
 ### 😎 An Introduction:
 - **He / Him**
 - **17 yrs Old.**
