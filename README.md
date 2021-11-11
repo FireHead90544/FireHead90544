@@ -12,6 +12,7 @@
 
 ### 💻 Completed Projects:
 - #### Python:
+  - 📧[**PyMailer - GUI Based Mail Sender**](https://github.com/FireHead90544/PyMailer)
   - ⏹[**stack.py - LIFO Stack & FIFO Queue Implementation in Python**](https://github.com/FireHead90544/stack.py)
   - 📣[**PyQTTs - Open Source Text To Speech GUI Application**](https://github.com/FireHead90544/PyQTTs)
   - 🌐[**Cyber Efficient**](https://cyberefficient.io) // Made Using Flask
