@@ -35,7 +35,7 @@
 ### 🎉 Future Projects (Will Implement After Exams)
 - SenPY (GUI Based Anime Downloader)
 - WaveManga (NeuralNetwork Powered Manga Colorizer)
-- PWUtils (Dedicated Dark Mode / Video Downloader)
+- PWUtils (Dedicated Dark Mode / Video Downloader For 'pw.live')
 - SomeRandomAPI (All In One API because why not?)
 - Re-design and Revive My Portfolio
 
@@ -61,7 +61,7 @@
 
 ### ⚡ Other Things I Do:
 - **Blogging** __[Mr.Streamer](#) 📰__
-- **YouTube** - __[Mr.Streamer](https://www.youtube.com/mrstreamer) 🔴__
+- **YouTube** - __[RudraXD](https://www.youtube.com/mrstreamer) 🔴__
 - **Gaming 💻📱**
 - **Study 🎓**
 - **Singing 🎤**
