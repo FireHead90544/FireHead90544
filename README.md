@@ -32,12 +32,12 @@
   - 🚩[**NTB - An AI powered by ML to provide sentiment analysis**](https://github.com/FireHead90544/NT-B)
   - 🤖[**RUDRA - A Highly Trained Voice Asistant**](https://github.com/FireHead90544/RUDRA)
 
-### 🎉 Future Projects (Will Implement After Rxams)
+### 🎉 Future Projects (Will Implement After Exams)
 - SenPY (GUI Based Anime Downloader)
 - WaveManga (NeuralNetwork Powered Manga Colorizer)
 - PWUtils (Dedicated Dark Mode / Video Downloader)
 - SomeRandomAPI (All In One API because why not?)
-- Resign and Revive My Portfolio
+- Re-design and Revive My Portfolio
 
 ### 🤯 I’m Currently Learning:
 - **nodeJS** // In Near Future
