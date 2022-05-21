@@ -12,6 +12,8 @@
 
 ### 💻 Completed Projects:
 - #### Python:
+  - 📝[**PyMemo - CLI Based Memo Application**](https://github.com/FireHead90544/PyMemo)
+  - 🛒[**PySHOP - CLI Based Shopping Cart Simulator**](https://github.com/FireHead90544/PyShop)
   - 💣[**BSDotPy - BombSquad's API Wrapper**](https://github.com/FireHead90544/bsdotpy)
   - 📧[**PyMailer - GUI Based Mail Sender**](https://github.com/FireHead90544/PyMailer)
   - ⏹[**stack.py - LIFO Stack & FIFO Queue Implementation in Python**](https://github.com/FireHead90544/stack.py)
@@ -29,14 +31,19 @@
   - ✂️[**shortyy.ml - A Brand URL Shortener Made Using Flask & Postgres**](https://www.shortyy.ml/)
   - 🚩[**NTB - An AI powered by ML to provide sentiment analysis**](https://github.com/FireHead90544/NT-B)
   - 🤖[**RUDRA - A Highly Trained Voice Asistant**](https://github.com/FireHead90544/RUDRA)
-  - 💎**SCI-BOT - A Multi-Purpose Discord Bot** // Code Not Available, Try It [Here](https://invite.gg/cyberefficient)
+
+### 🎉 Future Projects (Will Implement After Rxams)
+- SenPY (GUI Based Anime Downloader)
+- WaveManga (NeuralNetwork Powered Manga Colorizer)
+- PWUtils (Dedicated Dark Mode / Video Downloader)
+- SomeRandomAPI (All In One API because why not?)
+- Resign and Revive My Portfolio
 
 ### 🤯 I’m Currently Learning:
 - **nodeJS** // In Near Future
-- **C#**
-- **Game Development Using Unity**
-- **Adobe Animate - Stickman Animation**
-- **Adobe Photoshop**
+- **Unity x C#**
+- **Machine/Deep Learning**
+- **Tailwind / React / NextJS**
 - **Music Production - FL Studio**
 - **Blender - 3D Modelling & Animation**
 
@@ -44,7 +51,7 @@
 - **Python Open-Source Projects!**
 - **YouTube Videos!**
 
-### 📰 [My Blog](https://mrstreamer.live/)
+### 📰 [My Blog](#) # It's dead right now no cap
 
 ### 📈 Some Stats :):
 
