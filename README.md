@@ -37,6 +37,7 @@
 - WaveManga (NeuralNetwork Powered Manga Colorizer)
 - PWUtils (Dedicated Dark Mode / Video Downloader For 'pw.live')
 - SomeRandomAPI (All In One API because why not?)
+- FastForwardAPI (Selenium/Extension Based API to skip ad links)
 - Re-design and Revive My Portfolio
 
 ### 🤯 I’m Currently Learning:
