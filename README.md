@@ -12,6 +12,7 @@
 
 ### 💻 Completed Projects:
 - #### Python:
+  - 📝[**PWUtils - Utilities for PW's Website [Dark Mode]**](https://github.com/FireHead90544/PWUtils)
   - 📝[**PyMemo - CLI Based Memo Application**](https://github.com/FireHead90544/PyMemo)
   - 🛒[**PySHOP - CLI Based Shopping Cart Simulator**](https://github.com/FireHead90544/PyShop)
   - 💣[**BSDotPy - BombSquad's API Wrapper**](https://github.com/FireHead90544/bsdotpy)
@@ -35,7 +36,6 @@
 ### 🎉 Future Projects (Will Implement After Exams)
 - SenPY (GUI Based Anime Downloader)
 - WaveManga (NeuralNetwork Powered Manga Colorizer)
-- PWUtils (Dedicated Dark Mode / Video Downloader For 'pw.live')
 - SomeRandomAPI (All In One API because why not?)
 - WallHavenPy (Something with wallhaven.cc)
 - VoiceTTT (Google Assistant x IFTTT)
