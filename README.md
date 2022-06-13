@@ -37,6 +37,8 @@
 - WaveManga (NeuralNetwork Powered Manga Colorizer)
 - PWUtils (Dedicated Dark Mode / Video Downloader For 'pw.live')
 - SomeRandomAPI (All In One API because why not?)
+- WallHavenPy (Something with wallhaven.cc)
+- VoiceTTT (Google Assistant x IFTTT)
 - FastForwardAPI (Selenium/Extension Based API to skip ad links)
 - Re-design and Revive My Portfolio
 
