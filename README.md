@@ -34,6 +34,7 @@
   - 🤖[**RUDRA - A Highly Trained Voice Asistant**](https://github.com/FireHead90544/RUDRA)
 
 ### 🎉 Future Projects (Will Implement After Exams)
+- Dal-E-Mini API (A text-to-image generation api becuz why not?)
 - SenPY (GUI Based Anime Downloader)
 - WaveManga (NeuralNetwork Powered Manga Colorizer)
 - SomeRandomAPI (All In One API because why not?)
