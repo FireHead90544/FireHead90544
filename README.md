@@ -12,6 +12,7 @@
 
 ### 💻 Completed Projects:
 - #### Python:
+  - 🐰[**craiyon.py - Image Generation API Wrapper (Based on DAL-E-MINI)**](https://github.com/FireHead90544/craiyon.py)
   - 📝[**PWUtils - Utilities for PW's Website [Dark Mode]**](https://github.com/FireHead90544/PWUtils)
   - 📝[**PyMemo - CLI Based Memo Application**](https://github.com/FireHead90544/PyMemo)
   - 🛒[**PySHOP - CLI Based Shopping Cart Simulator**](https://github.com/FireHead90544/PyShop)
@@ -19,12 +20,8 @@
   - 📧[**PyMailer - GUI Based Mail Sender**](https://github.com/FireHead90544/PyMailer)
   - ⏹[**stack.py - LIFO Stack & FIFO Queue Implementation in Python**](https://github.com/FireHead90544/stack.py)
   - 📣[**PyQTTs - Open Source Text To Speech GUI Application**](https://github.com/FireHead90544/PyQTTs)
-  - 🌐[**Cyber Efficient**](https://cyberefficient.io) // Made Using Flask
-  - 🍨[**i-Scream - A Single-Guilded Private Bot For Ayusnator**](#) // Repository Will Be Made Public Soon
   - 😎[**Thug Life Filter - OpenCV & Python**](https://github.com/FireHead90544/thug-life-filter-using-python)
-  - 😃[**Rudransh Joshi**](https://www.rudranshjoshi.me/) // My Portfolio Website, Made Using Flask
-  - 🤖[**Phoenix Bot - A Single-Guilded Private Bot For Project: Phoenix™**](https://discord.gg/phoenixop) // Try it out on my discord server
-  - 🎉[**HacktoberFest2020**](https://hacktoberfest.digitalocean.com)
+  - 🤖[**Phoenix Bot - A Single-Guilded Private Bot For Project: Phoenix™**](https://discord.gg/dN66r3D) // Try it out on my discord server
 
 ### 👨‍💻 I’m currently working on
 - #### Python Projects:
@@ -34,7 +31,6 @@
   - 🤖[**RUDRA - A Highly Trained Voice Asistant**](https://github.com/FireHead90544/RUDRA)
 
 ### 🎉 Future Projects (Will Implement After Exams)
-- Dal-E-Mini API (A text-to-image generation api becuz why not?)
 - SenPY (GUI Based Anime Downloader)
 - WaveManga (NeuralNetwork Powered Manga Colorizer)
 - SomeRandomAPI (All In One API because why not?)
@@ -44,16 +40,15 @@
 - Re-design and Revive My Portfolio
 
 ### 🤯 I’m Currently Learning:
-- **nodeJS** // In Near Future
+- **nodeJS**
 - **Unity x C#**
-- **Machine/Deep Learning**
+- **Deep Learning**
 - **Tailwind / React / NextJS**
-- **Music Production - FL Studio**
 - **Blender - 3D Modelling & Animation**
 
 ### 👯 I'd Love To Collab On:
-- **Python Open-Source Projects!**
-- **YouTube Videos!**
+- **Open-Source Projects!**
+- **Shit Posting 😂**
 
 ### 📰 [My Blog](#) # It's dead right now no cap
 
