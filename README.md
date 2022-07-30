@@ -54,6 +54,8 @@
 
 ### 📈 Some Stats :):
 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=FireHead90544&theme=radical&row=2&column=3" alt="FireHead90544" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireHead90544&layout=compact&show_icons=true&theme=radical" alt="FireHead90544" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FireHead90544&theme=radical" alt="FireHead90544" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FireHead90544&show_icons=true&theme=radical" alt="FireHead90544" />
