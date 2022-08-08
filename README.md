@@ -24,6 +24,9 @@
   - 🤖[**Phoenix Bot - A Single-Guilded Private Bot For Project: Phoenix™**](https://discord.gg/dN66r3D) // Try it out on my discord server
 
 ### 👨‍💻 I’m currently working on
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="A quick joke to make you smile, only, if you are able to get it though xD" align="right" />
+
 - #### Python Projects:
   - 🔻[**gogoanime-dl - An Anime Downloader written in Python**](https://colab.research.google.com/drive/1x7Ksz1_6iC5jy9Pna4iQFf5LR9ISIIWX?usp=sharing)
   - ✂️[**shortyy.ml - A Brand URL Shortener Made Using Flask & Postgres**](https://www.shortyy.ml/)
