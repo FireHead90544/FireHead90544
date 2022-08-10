@@ -12,7 +12,7 @@
 
 ### 💻 Completed Projects:
 - #### Python:
-  - ❤️‍🔥[**SePY - Anime Downloader**](https://github.com/FireHead90544/SenPY)
+  - ❤️‍🔥[**SenPY - Anime Downloader**](https://github.com/FireHead90544/SenPY)
   - 🐰[**craiyon.py - Image Generation API Wrapper (Based on DAL-E-MINI)**](https://github.com/FireHead90544/craiyon.py)
   - 📝[**PWUtils - Utilities for PW's Website [Dark Mode]**](https://github.com/FireHead90544/PWUtils)
   - 📝[**PyMemo - CLI Based Memo Application**](https://github.com/FireHead90544/PyMemo)
