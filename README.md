@@ -12,7 +12,7 @@
 
 ### 💻 Completed Projects:
 - #### Python:
-  - ❤️‍🔥[**AnimeRPC - Discord Rich Presence For Animes**](https://github.com/FireHead90544/AnimeRPC)
+  - ☕[**AnimeRPC - Discord Rich Presence For Animes**](https://github.com/FireHead90544/AnimeRPC)
   - ❤️‍🔥[**SenPY - Anime Downloader**](https://github.com/FireHead90544/SenPY)
   - 🐰[**craiyon.py - Image Generation API Wrapper (Based on DAL-E-MINI)**](https://github.com/FireHead90544/craiyon.py)
   - 📝[**PWUtils - Utilities for PW's Website [Dark Mode]**](https://github.com/FireHead90544/PWUtils)
