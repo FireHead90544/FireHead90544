@@ -1,82 +1,62 @@
-## Hello! I'm Rudransh <img src="https://komarev.com/ghpvc/?username=FireHead90544&style=flat-square&color=007efc" alt="FireHead90544" />
-<a href="https://app.daily.dev/FireHead90544"><img src="https://github.com/FireHead90544/FireHead90544/blob/main/devcard.svg" width="400" alt="Rudransh Joshi's Dev Card" align="right"/></a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FireHead90544&style=for-the-badge&color=2f81f7" alt="FireHead90544" />
+  <h1>Hello! I'm Rudransh 👋</h1>
+  <p>I am a self-taught developer from India who enjoys writing code, listening to music, and watching anime. Reading light novels and manga is yet another hobby of mine. I'm just a cool nerd who's into tech and programming. Currently, I am pursuing my bachelor's degree in Artificial Intelligence & Machine Learning. And as always, I'm just a typical "relatable" guy you can't relate to.</p>
+</div>
 
-### 😎 An Introduction:
-- **He / Him**
-- **17 yrs Old.**
-- **I 💖 Python**
-- **I Love Music**
-- **I Love To Learn New Programming Languages And Working On New Projects.**
+<div align="center">
+  <details>
+    <summary><h2>Stats</h2></summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=FireHead90544&show_icons=true&theme=radical" alt="Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireHead90544&theme=radical" alt="Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireHead90544&layout=donut&show_icons=true&theme=radical" alt="Languages">
+    <img src="https://github-profile-trophy.vercel.app/?username=FireHead90544&row=2&column=3&theme=radical" alt="Languages">
+  </details>
+</div>
 
-#### 🏆 Recent Achievement: [**Certificate For TechAvishkar In e-Raksha Competition**](https://dchn.io/QMjZ2)
+<div align="center">
+  <details>
+    <summary><h2>Tools & Tech</h2></summary>
+    <h4>Languages</h4>
+    <img src="https://img.shields.io/badge/-Python-f6d747?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-C-f6d747?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-C%23-f6d747?style=for-the-badge">
+    <br>
+    <img src="https://img.shields.io/badge/-HTML5-f6d747?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-CSS3-f6d747?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-JavaScript-f6d747?style=for-the-badge">
+    <h4>Libraries & Frameworks</h4>
+    <img src="https://img.shields.io/badge/-django-e34c26?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Flask-e34c26?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-FastAPI-e34c26?style=for-the-badge">
+    <br>
+    <img src="https://img.shields.io/badge/-TailwindCSS-e34c26?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Bootstrap-e34c26?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-QT Framework-e34c26?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-discord.py-e34c26?style=for-the-badge">
+    <h4>Databases</h4>
+    <img src="https://img.shields.io/badge/-PostgreSQL-8df7b5?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-MySQL-8df7b5?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-SQLite-8df7b5?style=for-the-badge">
+    <h4>Deployment</h4>
+    <img src="https://img.shields.io/badge/-nginx-563d7c?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-apache2-563d7c?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Heroku-563d7c?style=for-the-badge">
+    <br>
+    <img src="https://img.shields.io/badge/-GitHub_Pages-563d7c?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-ubuntu-563d7c?style=for-the-badge">
+    <h4>Version Control & Tools</h4>
+    <img src="https://img.shields.io/badge/-Git-e4406f?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-GitHub-e4406f?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Visual_Studio_Code-e4406f?style=for-the-badge">
+    <br>
+    <img src="https://img.shields.io/badge/-Discord-e4406f?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Unity-e4406f?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Canva-e4406f?style=for-the-badge">
+  </details>
+</div>
 
-### 💻 Completed Projects:
-- #### Python:
-  - ☕[**AnimeRPC - Discord Rich Presence For Animes**](https://github.com/FireHead90544/AnimeRPC)
-  - ❤️‍🔥[**SenPY - Anime Downloader**](https://github.com/FireHead90544/SenPY)
-  - 🐰[**craiyon.py - Image Generation API Wrapper (Based on DAL-E-MINI)**](https://github.com/FireHead90544/craiyon.py)
-  - 📝[**PWUtils - Utilities for PW's Website [Dark Mode]**](https://github.com/FireHead90544/PWUtils)
-  - 📝[**PyMemo - CLI Based Memo Application**](https://github.com/FireHead90544/PyMemo)
-  - 🛒[**PySHOP - CLI Based Shopping Cart Simulator**](https://github.com/FireHead90544/PyShop)
-  - 💣[**BSDotPy - BombSquad's API Wrapper**](https://github.com/FireHead90544/bsdotpy)
-  - 📧[**PyMailer - GUI Based Mail Sender**](https://github.com/FireHead90544/PyMailer)
-  - ⏹[**stack.py - LIFO Stack & FIFO Queue Implementation in Python**](https://github.com/FireHead90544/stack.py)
-  - 📣[**PyQTTs - Open Source Text To Speech GUI Application**](https://github.com/FireHead90544/PyQTTs)
-  - 😎[**Thug Life Filter - OpenCV & Python**](https://github.com/FireHead90544/thug-life-filter-using-python)
-  - 🤖[**Phoenix Bot - A Single-Guilded Private Bot For Project: Phoenix™**](https://discord.gg/dN66r3D) // Try it out on my discord server
-
-### 👨‍💻 I’m currently working on
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="A quick joke to make you smile, only, if you are able to get it though xD" align="right" />
-
-- #### Python Projects:
-  - 🔻[**gogoanime-dl - An Anime Downloader written in Python**](https://colab.research.google.com/drive/1x7Ksz1_6iC5jy9Pna4iQFf5LR9ISIIWX?usp=sharing)
-  - ✂️[**shortyy.ml - A Brand URL Shortener Made Using Flask & Postgres**](https://www.shortyy.ml/)
-  - 🚩[**NTB - An AI powered by ML to provide sentiment analysis**](https://github.com/FireHead90544/NT-B)
-  - 🤖[**RUDRA - A Highly Trained Voice Asistant**](https://github.com/FireHead90544/RUDRA)
-
-### 🎉 Future Projects (Will Implement After Exams)
-- SenPY (GUI Based Anime Downloader)
-- WaveManga (NeuralNetwork Powered Manga Colorizer)
-- SomeRandomAPI (All In One API because why not?)
-- WallHavenPy (Something with wallhaven.cc)
-- VoiceTTT (Google Assistant x IFTTT)
-- FastForwardAPI (Selenium/Extension Based API to skip ad links)
-- Re-design and Revive My Portfolio
-
-### 🤯 I’m Currently Learning:
-- **nodeJS**
-- **Unity x C#**
-- **Deep Learning**
-- **Tailwind / React / NextJS**
-- **Blender - 3D Modelling & Animation**
-
-### 👯 I'd Love To Collab On:
-- **Open-Source Projects!**
-- **Shit Posting 😂**
-
-### 📰 [My Blog](#) # It's dead right now no cap
-
-### 📈 Some Stats :):
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=FireHead90544&theme=radical&row=2&column=3" alt="FireHead90544" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireHead90544&layout=compact&show_icons=true&theme=radical" alt="FireHead90544" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FireHead90544&theme=radical" alt="FireHead90544" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FireHead90544&show_icons=true&theme=radical" alt="FireHead90544" />
-
-### ⚡ Other Things I Do:
-- **Blogging** __[Mr.Streamer](#) 📰__
-- **YouTube** - __[RudraXD](https://www.youtube.com/mrstreamer) 🔴__
-- **Gaming 💻📱**
-- **Study 🎓**
-- **Singing 🎤**
-- **Contributing To Open Source 🌸**
-
-### 📫 Connect with Me: 
-- Discord (DM) - **[</Rudransh Joshi>](https://dsc.bio/mrstreamer)**
-- Discord (Server) - **[Mr.Streamer](https://discord.gg/dN66r3D)**
-- Instagram - **[</Rudransh Joshi>](https://www.instagram.com/_rudra.xd_/)**
-
-### Languages and Tools (I have learned OR learning):
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/flask.svg" id="invertThis" style="filter: invert(1);" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/animate.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/adobe-animate.svg" alt="animate" width="40" height="40"/> </a> <a href="https://www.blender.org" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/blender.svg" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.heroku.com" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/heroku.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hacktoberfest.digitalocean.com" target="_blank"> <img src="https://hacktober-fest-2020.vercel.app/hacktoberfest.svg" alt="hacktoberfest" width="40" height="40"/> </a> </p>
+<div align="center">
+  <br>
+  <p>·   To get in touch, you may find <a href="https://www.rudranshjoshi.tech/allmylinks/" target="_blank">AllMyLinks</a> here   ·</p>
+</div>
