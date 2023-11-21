@@ -58,5 +58,5 @@
 
 <div align="center">
   <br>
-  <p>·   To get in touch, you may find <a href="https://www.rudra.is-a.dev/allmylinks/" target="_blank">AllMyLinks</a> here   ·</p>
+  <p>·   To get in touch, you may find <a href="https://rudra.is-a.dev/allmylinks/" target="_blank">AllMyLinks</a> here   ·</p>
 </div>
