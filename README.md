@@ -25,15 +25,24 @@
     <img src="https://img.shields.io/badge/-HTML5-f6d747?style=for-the-badge">
     <img src="https://img.shields.io/badge/-CSS3-f6d747?style=for-the-badge">
     <img src="https://img.shields.io/badge/-JavaScript-f6d747?style=for-the-badge">
+    <br>
+    <img src="https://img.shields.io/badge/-TypeScript-f6d747?style=for-the-badge">
     <h4>Libraries & Frameworks</h4>
     <img src="https://img.shields.io/badge/-django-e34c26?style=for-the-badge">
     <img src="https://img.shields.io/badge/-Flask-e34c26?style=for-the-badge">
     <img src="https://img.shields.io/badge/-FastAPI-e34c26?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-BeautifulSoup-e34c26?style=for-the-badge">
+    <br>
+    <img src="https://img.shields.io/badge/-discord.py-e34c26?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-QT Framework-e34c26?style=for-the-badge">
     <br>
     <img src="https://img.shields.io/badge/-TailwindCSS-e34c26?style=for-the-badge">
     <img src="https://img.shields.io/badge/-Bootstrap-e34c26?style=for-the-badge">
-    <img src="https://img.shields.io/badge/-QT Framework-e34c26?style=for-the-badge">
-    <img src="https://img.shields.io/badge/-discord.py-e34c26?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-React-e34c26?style=for-the-badge">
+    <br>
+    <img src="https://img.shields.io/badge/-NextJS-e34c26?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Prisma-e34c26?style=for-the-badge">
+    <br>
     <h4>Databases</h4>
     <img src="https://img.shields.io/badge/-PostgreSQL-8df7b5?style=for-the-badge">
     <img src="https://img.shields.io/badge/-MySQL-8df7b5?style=for-the-badge">
