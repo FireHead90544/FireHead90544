@@ -8,7 +8,7 @@
   <details>
     <summary><h2>Stats</h2></summary>
     <img src="https://github-readme-stats.vercel.app/api?username=FireHead90544&show_icons=true&theme=radical" alt="Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireHead90544&theme=radical" alt="Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireHead90544&theme=radical&exclude_days=sun" alt="Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireHead90544&layout=donut&show_icons=true&theme=radical" alt="Languages">
     <img src="https://github-profile-trophy.vercel.app/?username=FireHead90544&row=2&column=3&theme=radical" alt="Languages">
   </details>
